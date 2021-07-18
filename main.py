@@ -47,7 +47,7 @@ def main():
             st.image("images/among each other.png")
 
     elif(selection_type == "User engagement"):
-        int_selection_type_user = st.selectbox("Select User engagement",("-","Variables and datatypes","Comparision of customers by session frequency","Comparision of customers by total duration","Comparision of customers by total data","Most used applications",))
+        int_selection_type_user = st.selectbox("Select User engagement",("-","Variables and datatypes","Comparision of customers by session frequency","Comparision of customers by total duration","Comparision of customers by total data","Most used applications"))
         if(int_selection_type_user == "Variables and datatypes"):
             st.image('images/data_type1.PNG')
             st.image('images/data_type2.PNG')
