@@ -1,6 +1,2 @@
-numpy
-pandas
 streamlit
-altair
-wordcloud
-plotly
+turtle
