@@ -1,8 +1,8 @@
 import streamlit as st
-import turtle
+# import turtle
 
-def initialization():
-    skk = turtle.Turtle()
+# def initialization():
+#     skk = turtle.Turtle()
     # turtle.bgcolor('black')
     # turtle.color('cyan')
     # turtle.speed(11)
